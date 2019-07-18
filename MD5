@@ -1,0 +1,10 @@
+5d5ada855b3ac7bb8cb1c13c6a082eb0 *DESCRIPTION
+f778fd3274cb6815cf111ab778d42304 *NAMESPACE
+8b769abed8a1c358b7f67d00d11d69f7 *R/cusum.R
+367454952d043526fede01df29a7f361 *R/ko.glm.R
+9ac12b5f6b09abbec9e4c279b258df82 *R/ko.ordinal.R
+2e83d76d9906bc72f4191daa73241857 *R/ko.sel.R
+53090ceb6a89076a18d9aae5bc6c3a61 *R/rupt.detection.R
+7f0b9481dae0bf318d0fd4d39fcc2715 *man/ko.glm.Rd
+f2dae631e7069255e96ff7732757495d *man/ko.ordinal.Rd
+deb99c26a5c1f7aa753bff842101b900 *man/ko.sel.Rd
